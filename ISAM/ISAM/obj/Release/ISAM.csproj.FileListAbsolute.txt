@@ -1,0 +1,10 @@
+C:\Users\kuba\Documents\Studia\SBD\ISAM\ISAM\bin\Release\ISAM.exe.config
+C:\Users\kuba\Documents\Studia\SBD\ISAM\ISAM\bin\Release\ISAM.exe
+C:\Users\kuba\Documents\Studia\SBD\ISAM\ISAM\bin\Release\ISAM.pdb
+C:\Users\kuba\Documents\Studia\SBD\ISAM\ISAM\obj\Release\ISAM.Form1.resources
+C:\Users\kuba\Documents\Studia\SBD\ISAM\ISAM\obj\Release\ISAM.Properties.Resources.resources
+C:\Users\kuba\Documents\Studia\SBD\ISAM\ISAM\obj\Release\ISAM.csproj.GenerateResource.cache
+C:\Users\kuba\Documents\Studia\SBD\ISAM\ISAM\obj\Release\ISAM.csproj.CoreCompileInputs.cache
+C:\Users\kuba\Documents\Studia\SBD\ISAM\ISAM\obj\Release\ISAM.exe
+C:\Users\kuba\Documents\Studia\SBD\ISAM\ISAM\obj\Release\ISAM.pdb
+C:\Users\kuba\Documents\Studia\SBD\ISAM\ISAM\obj\Release\ISAM.csprojAssemblyReference.cache
